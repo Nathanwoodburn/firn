@@ -1,10 +1,10 @@
 name: firn
 description: A modern IRC v3 library written for dart. Used in Igloo IRC for android.
-version: 0.0.2
+version: 0.0.3
 homepage: https://github.com/nojusr/firn
 
 environment:
-  sdk: ">=2.7.0 <3.0.0"
+  sdk: '>=3.2.3 <4.0.0'
 
 
 dev_dependencies:
